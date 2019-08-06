@@ -18,7 +18,7 @@ body {
 	Logo / Menu / Panel Positioning
 */
 /*Координаты логотипа и панели взяты из фотошопа. Рисуем дизайн все таки там(( */
-#logo { position:absolute; top:58px; left:51px;}
+/*#logo { position:absolute; top:58px; left:51px;}*/
 #mylogo { position:absolute; top:165px; left:65px; height:200px; weight:200px;}
 
 
